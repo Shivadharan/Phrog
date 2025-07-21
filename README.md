@@ -1,6 +1,6 @@
 
 
-# **Phrog**
+# **Phrog** 🐸
 
 
 A python based platform game (endless runner) 
