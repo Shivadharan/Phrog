@@ -4,6 +4,8 @@
 
 
 A python based platform game (endless runner) 
+<br>
+[phrog -> <ins>**P**</ins>ython + f<ins>**rog**</ins>] :)
 
 
 ###  About the project 
